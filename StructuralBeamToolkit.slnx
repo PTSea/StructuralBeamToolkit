@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="StructuralBeamToolkit.Tests/StructuralBeamToolkit.Tests.csproj" />
+  <Project Path="StructuralBeamToolkit/StructuralBeamToolkit.csproj" />
+</Solution>
