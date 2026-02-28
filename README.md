@@ -104,12 +104,12 @@ Mmax = w · L² / 8
 
 The application follows the **MVVM pattern**:
 
-'''text
+```text
 StructuralBeamToolkit
 │
 ├── App.xaml
 │
-├──AssemblyInfo.cs│
+├──AssemblyInfo.cs
 │
 ├── MainWindow.xaml
 │ └── MainWindow.xaml.cs
@@ -130,8 +130,7 @@ StructuralBeamToolkit
 │
 └── StructuralBeamToolkit.Tests
 └── BeamCalculatorTests.cs
-'''
-
+```
 
 ### Key Design Decisions
 
